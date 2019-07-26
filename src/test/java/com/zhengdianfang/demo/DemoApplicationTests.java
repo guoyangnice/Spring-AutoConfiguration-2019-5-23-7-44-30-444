@@ -16,7 +16,9 @@ public class DemoApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println(user);
     }
+
 
     @Test
     public void testUserProperties() {
